@@ -1,24 +1,28 @@
 ## Hi there 👋
 
-# Nous's Personal Introduction
-Hi, I’m Nous.
-- 🎓 I am a student born in March 2007 from Guangdong.
-- 💻 I aspire to become an embedded engineer, with a strong interest in electronics and programming.
-- 🎵 I love music and often enjoy exploring different music genres in my free time.
-I’m passionate about learning, looking to expand my technical skills and knowledge, and hoping to connect with like-minded individuals.  
-Feel free to reach out if you share similar interests!
+# 👋 Hi, I’m Nous
+
+🎓 I am currently a student at South China Agricultural University, majoring in Mechanical Design, Manufacturing and Automation (Intelligent Manufacturing).  
+📍 Based in Guangdong, China.  
+💡 I am passionate about robotics and embedded engineering, aiming to become an embedded systems engineer.
+
+## 🏆 Experience & Community
+
+- Member of Agrotech Intelligent Machinery Association (Mechanical Group; Robotic Arm Motion Control Group)
+- Engaged in practical robotics and mechanical arm motion projects with hands-on experience
+
+## 🚀 Skills & Interests
+
+- **Programming Languages:** Proficient in C/C++
+- **Mechanical Design:** Solid foundation and hands-on project experience
+- **Embedded Systems:** STM32 microcontroller development
+- **Robot Frameworks:** ROS2 development and robotic arm motion planning
+- **Other Interests:** Enthusiastic about music and exploring different music genres
+
+## 🌟 About Me
+
+I love solving challenging technical problems and collaborating with like-minded friends. I'm eager to grow in robotics and embedded systems, contribute to open-source, and connect with the wider tech community.
+
 ---
-<!--
-**Nous3508/Nous3508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to connect or explore my projects. Let's build something amazing together!
