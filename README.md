@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+# Nous's Personal Introduction
+Hi, I’m Nous.
+- 🎓 I am a student born in March 2007 from Guangdong.
+- 💻 I aspire to become an embedded engineer, with a strong interest in electronics and programming.
+- 🎵 I love music and often enjoy exploring different music genres in my free time.
+I’m passionate about learning, looking to expand my technical skills and knowledge, and hoping to connect with like-minded individuals.  
+Feel free to reach out if you share similar interests!
+---
 <!--
 **Nous3508/Nous3508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
