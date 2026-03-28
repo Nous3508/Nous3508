@@ -12,14 +12,15 @@
 - 🎓 **Graduate** of South China Agricultural University (SCAU)
 - 🛠️ **Major:** Mechanical Design, Manufacturing, and Automation (Intelligent Manufacturing)
 - 🌱 **Current Interests:** Embedded systems, robotics, and motion planning
-- 💡 **Aspiration:** To become an innovative embedded engineer
+- 💡 **Aspiration:** To become an innovative embedded software engineer
 
 ---
 
 ## 🚀 Experience
 
-- 🤖 **Member** of Agritech Intelligent Machinery Association (Mechanical Group)
-- 🦾 **Robotic Arm Motion Control Team** participant
+- 🤖 **Member** of Agrotech Intelligent Machinery Association (Mechanical Group)
+- 🦾 **Robotic Arm Motion Control Team** Member
+- 🦾 **Mechanical Team** Member
 - 🌾 **Collaborator** with Guangdong Academy of Agricultural Sciences
 
 ---
