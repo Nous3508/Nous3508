@@ -1,81 +1,73 @@
-# Hi there, I'm Nous 👋
+# Hi, I'm Nous 👋  
+**Student · Aspiring Embedded Engineer · Intelligent Manufacturing**
 
-**SCAU (South China Agricultural University) graduate**  
-Major: **Mechanical Design, Manufacturing & Automation (Intelligent Manufacturing)**  
-📍 Guangdong, China | 🎓 Student-ish mindset (always learning) | 🎵 Music lover
-
----
-
-## 🚀 About Me
-
-I’m **Nous**, an engineering enthusiast who enjoys turning ideas into real, moving machines.
-
-My current focus is on **robotics + embedded systems + intelligent manufacturing** — especially the intersection between **mechanical design**, **electronics**, and **control/software**. I’m aiming to grow into an **Embedded Engineer** (and keep building cool robots along the way).
-
-When I’m not debugging or modeling parts, you’ll probably find me listening to music and recharging for the next build.
+I’m Nous, based in **Guangdong, China**, and I’m passionate about building things that **move**, **sense**, and **think**—from embedded systems to robotics motion control.
 
 ---
 
-## 🧩 What I’m Working On
-
-- 🤖 Robotic arms: motion control + planning  
-- 🔧 Embedded development: microcontrollers + peripherals + real hardware bring-up  
-- 🧠 Robotics software: ROS2 ecosystem and motion planning tools  
-- 🏗️ Making designs manufacturable: CAD → PCB → prototype → iteration
+## 🚀 Quick Facts
+- 🎓 **Graduated from South China Agricultural University (SCAU)**
+  - Major: **Mechanical Design, Manufacturing & Automation (Intelligent Manufacturing)**
+- 🤖 Interested in: **Embedded Systems · Robotics · Motion Control · Automation**
+- 🎵 Fun side quest: **Music enthusiast**
 
 ---
 
-## 🏫 Experience & Roles
+## 🧩 What I'm Working On
+- 🔧 Growing from “I can make it work” → “I can make it reliable & scalable”
+- 🧠 Exploring robotics stacks: **ROS2 + MoveIt** with real hardware integration
+- ⚡ Embedded development with **STM32** + circuit/PCB design + debugging
 
-- 🦾 **Agrotech Intelligent Machinery Association**  
-  - Mechanical Group Member  
+---
+
+## 🏫 Experience & Community
+- 🦾 **Agrotech Intelligent Machinery Association**
+  - Mechanical Group Member
   - Robotic Arm Motion Control Group Member
-- 🌾 **Collaborator with Guangdong Academy of Agricultural Sciences**
+- 🌾 Collaborator with **Guangdong Academy of Agricultural Sciences**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Embedded / Hardware
-- **MCU:** STM32 (development & debugging)
-- **PCB:** JLCPCB / 嘉立创 workflow
-- **Schematic & Layout:** circuit schematics, PCB layout, board bring-up
-
-### Programming
+### 💻 Programming
 - **C / C++**
 - **Python**
 
-### Robotics
-- **ROS2**
-- **MoveIt / motion planning**
-- Robotic arm control & integration
+### 🧠 Embedded & Hardware
+- **STM32 development**
+- **Schematic design**
+- **PCB Layout**
+- **JLCPCB (嘉立创) workflow**
+- Hardware bring-up & debugging (I enjoy the “why is it not working” part 😄)
 
-### Mechanical Design
+### 🤖 Robotics
+- **ROS2**
+- **MoveIt motion planning**
+- Robotic arm control & motion planning pipelines
+
+### 🛠️ CAD / Engineering Tools
 - **SolidWorks**
 - **AutoCAD**
-- Design for prototyping & manufacturing
 
-### Dev Environment
-- **Linux** (daily driver for development)
-
----
-
-## 📌 Keywords That Describe Me
-
-**Hands-on · Curious · Builder mindset · Cross-domain (Mech + EE + Software) · Iterative learner**
+### 🐧 Dev Environment
+- **Linux** (comfortable development workflow)
 
 ---
 
-## 🎵 Fun Corner
+## 🎯 Goals
+- Become a strong **Embedded Engineer** with robotics integration ability  
+- Build real-world projects combining **MCU + PCB + ROS2 + motion planning**
+- Keep learning, keep shipping, keep iterating
 
-Music is my “background process” — it runs while I design, code, and debug.
+---
+
+## 📌 A Little More About Me
+I like projects that connect **mechanical design + electronics + software**, especially anything related to robotic arms, automation, and intelligent devices.  
+If you’re into embedded, robotics, or making hardware behave—let’s connect and learn together.
 
 ---
 
-## 🤝 Let’s Connect
-
-If you’re into **robotics, embedded systems, motion control, or intelligent manufacturing**, feel free to reach out or follow my projects here on GitHub.
-
-> “Build it, test it, improve it — repeat.”
-
----
+## 📫 Contact
+> If you want, tell me your preferred contact method (email / WeChat / Telegram / etc.),  
+> and I’ll add a clean contact section here.
