@@ -1,78 +1,79 @@
-<h1 align="center">Hi there 👋, I'm Nous</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20Enthusiast-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/From-Guangdong-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/SCAU-Alumni-yellowgreen?style=flat-square" />
-</p>
+# Hi, I'm Nous 👋
+
+**Mechanical Design & Intelligent Manufacturing (SCAU)** | Aspiring **Embedded Engineer**  
+Based in **Guangdong, China** | Into **music** 🎧
 
 ---
 
-## 👨‍🎓 About Me
+## About Me
 
-- 🎓 **Graduate** of South China Agricultural University (SCAU)
-- 🛠️ **Major:** Mechanical Design, Manufacturing, and Automation (Intelligent Manufacturing)
-- 🌱 **Current Interests:** Embedded systems, robotics, and motion planning
-- 💡 **Aspiration:** To become an innovative embedded software engineer
+I graduated from **South China Agricultural University (SCAU)**, majoring in **Mechanical Design, Manufacturing & Automation (Intelligent Manufacturing)**.  
+My work and interests sit at the intersection of **mechanical design**, **embedded systems**, and **robotics**—especially **robotic arms**, control, and motion planning.
 
----
-
-## 🚀 Experience
-
-- 🤖 **Member** of Agrotech Intelligent Machinery Association (Mechanical Group)
-- 🦾 **Robotic Arm Motion Control Team** Member
-- 🦾 **Mechanical Team** Member
-- 🌾 **Collaborator** with Guangdong Academy of Agricultural Sciences
+- 🎓 **Education:** SCAU — Mechanical Design, Manufacturing & Automation (Intelligent Manufacturing)
+- 🤖 **Focus:** Robotics, embedded development, and mechatronics integration
+- 🎯 **Goal:** Become a professional **Embedded Engineer**
+- 🎵 **Hobby:** Music (always exploring new sounds while coding/building)
 
 ---
 
-## 💻 Skills
+## Experience & Roles
 
-- **Programming:**  
-  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-- **Embedded Development:**
-  - STM32 microcontroller programming
-  - ROS2 for robotics motion planning
-  - Proficient with Linux development environments
-
-- **Mechanical Design:**
-  - Mechanical structure design
-  - Automation and intelligent equipment
+- 🦾 **AgroTech Intelligent Machinery Association**
+  - Mechanical Group Member
+  - Robotic Arm Motion Control Group Member
+- 🌾 **Collaborator** with **Guangdong Academy of Agricultural Sciences**
 
 ---
 
-## 🎼 Hobbies
+## Tech Stack
 
-- Music lover
-- Enjoys exploring diverse genres and artists
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-004482?style=flat&logo=c%2B%2B&logoColor=white)
 
----
+### Embedded & MCU
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 
-## 📫 Contact
+### Robotics
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=flat&logo=ros&logoColor=white)
 
-Feel free to connect and collaborate!
+### OS / Tools
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1f1f1f?style=flat&logo=git&logoColor=F05032)
 
-- [GitHub](https://github.com/Nous3508)
-<!--- Uncomment if you wish to provide more contacts
-- Email: your.email@example.com
-- WeChat/Telegram: your_handle
--->
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nous3508&show_icons=true&theme=tokyonight" alt="Nous's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nous3508&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<!---
-You can add a contribution graph or languages stats using more GitHub Readme widgets.
---->
+### Key Areas (What I’m building toward)
+- ⚙️ Mechanical Design (Mechatronics / Intelligent Manufacturing)
+- 🧩 STM32 firmware development (C/C++)
+- 🐧 Linux-based development workflow
+- 🤖 ROS2 robotics software development
+- 🧠 Robotic arm motion control & motion planning
 
 ---
 
-> *"Stay curious. Keep building. Make tomorrow better!"*
+## What I’m Interested In
+
+- Embedded systems for robotics
+- Robot arm kinematics & trajectory planning
+- Control algorithms + real-world hardware integration
+- Robotics middleware and tooling (ROS2 ecosystem)
+
+---
+
+## GitHub Goals
+
+- Build and document robotics/embedded projects with clean structure
+- Share learning notes on motion control, ROS2, and STM32 development
+- Create reusable modules (drivers, control utilities, robot demos)
+
+---
+
+## Contact
+
+If you want to collaborate on **robotics / embedded / motion planning** projects, feel free to reach out:
+
+- GitHub: **@Nous3508**
+
+---
+
+> “Build with hardware. Iterate with software. Make it move.”
