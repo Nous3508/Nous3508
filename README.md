@@ -24,7 +24,7 @@ I enjoy building things that *move*, *sense*, and *think*—especially systems t
 ---
 
 ## 🚀 Tech Stack
-> Color-highlighted badges for quick scanning (GitHub-friendly).
+> quick scanning：
 
 ### Languages
 <p>
