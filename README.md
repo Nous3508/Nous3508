@@ -162,13 +162,6 @@ When I’m not working on robotics or embedded systems, I’m usually listening 
 
 > “Build real things. Learn fast. Iterate.”
 
----
-
-## How to use / Customize
-1. Create a repository named `Nous3508` under your account (repository name must match your username: `Nous3508/Nous3508`).  
-2. Replace this README.md with the file content above and push.  
-3. To customize theme of dynamic cards, edit the `theme=` parameter in the image URLs (examples used: `tokyonight`, `light`, etc.). See https://github.com/anuraghazra/github-readme-stats for supported themes and parameters.  
-4. To localize content or change contact details, edit the English/中文 blocks. The README uses `<details>` so readers can expand their preferred language.
 
 ---
 
