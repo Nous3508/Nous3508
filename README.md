@@ -155,9 +155,9 @@ When I’m not working on robotics or embedded systems, I’m usually listening 
 ---
 
 ## 📫 Contact <a id="contact"></a>
-- Email: your-email@example.com (replace)  
+- Email: 3508525674@qq.com 
 - GitHub: https://github.com/Nous3508
-
+- Station: https://nous3508.github.io/
 ---
 
 > “Build real things. Learn fast. Iterate.”
