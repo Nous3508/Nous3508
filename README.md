@@ -133,7 +133,7 @@ I’m **Nous**, a student focused on **Mechanical Design, Manufacturing & Automa
   <!-- change theme parameter to 'light' or any other supported theme -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nous3508&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nous3508&layout=compact&theme=tokyonight" alt="Top languages" />
-  <img height="160" src="https://github-profile-trophy.vercel.app/?username=Nous3508&theme=tokyonight" alt="Trophies" />
+
 </p>
 
 <details>
